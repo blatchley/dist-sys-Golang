@@ -21,7 +21,7 @@ Finding your own IP address - [Here](Networking/findip)
 
 Basic data sending using Gob - [Here](Networking/basicgob)
 
-sending structs using Gob - WIP
+sending structs using Gob - [Here](Networking/structgob)
 
 using net/RPC to send multiple struct types - WIP
 
