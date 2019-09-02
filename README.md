@@ -15,18 +15,18 @@ Plenty of articles on medium, such as https://medium.com/rungo, and decent suppo
 
 # Basic Networking
 
-TCP client/server example - WIP
+TCP client/server example - [Here](Networking/tcpintro)
 
-Finding your own IP address - WIP
+Finding your own IP address - [Here](Networking/findip)
 
-Basic data sending using Gob - WIP
+Basic data sending using Gob - [Here](Networking/basicgob)
 
 sending structs using Gob - WIP
 
 using net/RPC to send multiple struct types - WIP
 
 # Managing connections
-Two way connections - WIP
+Two way RPC connections - WIP
 
 Fully Connected network using Peer List - WIP
 
