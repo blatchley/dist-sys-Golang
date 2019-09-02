@@ -1,12 +1,12 @@
 |Apologies for the delay, had a bad case of the flu for the last week and a half :(
-|Examples of gob implementations are up, which should already be overkill for the first handin. RPC implementations and architecture |should be up soon.
+|Examples of gob implementations are up, which should already be overkill for the first handin. RPC implementations and architecture should be up soon.
 
 # dist-sys-Golang
 Supplementary resources for Go, based on distributed systems and security course.
 
 As there are plenty of resources out there for getting started, I'll be focussing on some common Go architecture and networking patterns which we struggled with during the course last year, as well as working examples of some of the core libraries actually being implemented.
 
-These are definitely not the only ways of solving these problems, so if you have a useful design pattern, code snippet, educational example or anything else you think would be worth adding, feel free to submit a pull request or email me. Likewise, if you find a bug or error, or feel something very fundamental is missing, please let me know. While I am not an instructor on the course, I will attempt to maintain this repo through the course.
+These are definitely not the only ways of solving these problems, so if you have a useful design pattern, code snippet, educational example or anything else you think would be worth adding, feel free to submit a pull request or email me, (201205917 postaudk). Likewise, if you find a bug or error, or feel something very fundamental is missing, please let me know. While I am not an instructor on the course, I will attempt to maintain this repo through the course.
 
 # Useful links for getting started.
 installation: https://golang.org/doc/install
