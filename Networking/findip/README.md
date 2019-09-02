@@ -1,4 +1,4 @@
-#Finding your own IP
+# Finding your own IP
 Finding the ip of your computer address on the network in Go can be surprisingly hard. Many of the top results on google/stackoverflow are platform specific, or will return unpredictable depending on what network adapters, vm's, vpn's etc you have on your computer.
 
 The rather hacky code stump given here, found on stackoverflow, is the most reliable way I've found so far of finding an ip address which your machine is currently listening on. And should work regardless of setup. This is especially useful if you're writing code on a different OS than your instructor is using to test it.
