@@ -1,4 +1,5 @@
 |Apologies for the delay, had a bad case of the flu for the last week and a half :(
+
 |Examples of gob implementations are up, which should already be overkill for the first handin. RPC implementations and architecture should be up soon.
 
 # dist-sys-Golang
