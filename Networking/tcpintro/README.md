@@ -1,4 +1,5 @@
-#Basic TCP connection
+# Basic TCP connection
+
 This is a very basic server which accepts incoming connections over TCP.
 
 To run, enter "go run basicserver.go" into the terminal, or build then run it. It will then prompt for input, either enter "new" to create a "server", or the (ip:port) of the "server" you wish to connect to.
