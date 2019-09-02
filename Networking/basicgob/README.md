@@ -1,5 +1,6 @@
-#Using gob to send strings
-This is a very basic serverm which uses the gob package to decode strings sent to it by connected clients.
+# Using gob to send strings
+
+This is a very basic server which uses the gob package to decode strings sent to it by connected clients.
 
 To run, enter "go run basicserver.go" into the terminal, or build then run it. It will then prompt for input, either enter "new" to create a "server", or the (ip:port) of the "server" you wish to connect to.
 
